@@ -1,0 +1,18 @@
+{
+
+"INFO": "IL EST NECESSAIRE DE RENTRER LES INFORMATIONS AU FORMAT XX SANS LE % ex barriere_autocall : 100",
+
+"NC": 12,
+"barriere_autocall": 100,
+"maturite": 5,
+"frequence": 4,
+"degressivite": 0.5,
+"start_periode": 5,
+"floor": 60,
+"airbag": 75,
+"phoenix_memoire": "oui",
+"PDI": 50,
+"barriere_coupon": 50
+
+
+}
